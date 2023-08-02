@@ -1,0 +1,10 @@
+#addNoteForm {
+text-align: right;
+
+}
+
+table.table-bordered thead.first-row th {
+  background-color: #999999ff;
+  color: white;
+  text-align: center;
+}
